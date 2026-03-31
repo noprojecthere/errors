@@ -4,6 +4,9 @@ https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6681/1774775566681-i" group-title="GT vs PBKS", Star Sports 1 Hindi 
 https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1775045393~acl=%2f*~id=c141f154ab8e196132e41d599812aa6a~data=hdntl~hmac=a36d2d93b4130bdd797d9fb149169ab9b808c4e40384a05c5a0d32cfddd51149&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&drmScheme=clearkey&drmLicense=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
 
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6681/1774775566681-i" group-title="GT vs PBKS", HOTSTAR Hindi
+https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8|referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev
+
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6681/1774775566681-i" group-title="GT vs PBKS", Star Sports 1
 https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1775045396~acl=%2f*~id=a1b2a30dd6109ea48f7b8feea58cc087~data=hdntl~hmac=9f011495f29dead4a6a5b5b120e077d40a10a010584db7404fea5e7eb33a4190&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&drmScheme=clearkey&drmLicense=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
 
@@ -19,9 +22,3 @@ https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4d
 
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6681/1774775566681-i" group-title="GT vs PBKS", Star Sports 2 Telugu
 https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1775045390~acl=%2f*~id=bee54db31a4edb8cfdc3a9f471eedfe8~data=hdntl~hmac=292bd22b964b32623751ef4ca20d23d45fcaaaaa9bdafbddfbf97275a9627369&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com
-
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6681/1774775566681-i" group-title="GT vs PBKS", Willow
-https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149651/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775048591~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149651,debug4xx%3afalse,country%3aAE~hmac=d6918e916233d9f9df45e576ea1a75f27142ad8904d83f5df1d58fb4a131e6e2
-
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6681/1774775566681-i" group-title="GT vs PBKS", Willow/Cricbuzz English
-https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149651/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775048591~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149651,debug4xx%3afalse,country%3aAE~hmac=d6918e916233d9f9df45e576ea1a75f27142ad8904d83f5df1d58fb4a131e6e2
