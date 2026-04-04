@@ -7,8 +7,8 @@ https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 1
 https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1775386348~acl=%2f*~id=eb8ff392747db36d0ddd32e9a23999fb~data=hdntl~hmac=e9c4b85bcc0090ce8c2967c56b4e2359455625bd270e74d413adbd530d49f8ac&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&drmScheme=clearkey&drmLicense=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", IPL TV
-https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8?|cookie=hdntl=exp=1775386343~acl=%2f*~id=705b29021cb94cc895fc201ab33ba01b~data=hdntl~hmac=818a27ad812a81b5b092618cea6a70c3067cc1c4d7df7f564453e5c4965d5b49&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Hotstar Hindi
+https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8|referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Jiohotstar Hindi
 https://dillzy-stream.sayanwork-studioo.workers.dev/live/abc123.m3u8
@@ -26,8 +26,5 @@ https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4d
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 2 Telugu
 https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1775386343~acl=%2f*~id=705b29021cb94cc895fc201ab33ba01b~data=hdntl~hmac=818a27ad812a81b5b092618cea6a70c3067cc1c4d7df7f564453e5c4965d5b49&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Willow Adsfree
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/gkte6ghqa9/out/v1/70f3278bc2bc4fdaaf07715fe5bd10bc/cenc.mpd?|drmScheme=clearkey&drmLicense=f9bf2fc5edef8f9c01b2d080645fa06f:37ef689ddf8619259b02368d2b538b86
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Starzplay
-https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd?|drmScheme=clearkey&drmLicense=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 1 Hindi 50fps
+https://jiotvioslive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?|cookie=__hdnea__=st=1775301880~exp=1775388280~acl=/*~hmac=468049b62169c0d43d4b2d956a24e016844866a247ce13eca906f406565f781b&drmScheme=clearkey&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
