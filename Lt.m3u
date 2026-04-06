@@ -6,3 +6,10 @@ https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallbac
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 1 Hindi 
 https://jiotvbpkstb.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1775486899~exp=1775508499~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=af534e2abca9151085c8c2d2cd058501bdcef4565059906ae07475da9c00bd5c&user-agent=JioTV.Plus/2.3.1_2041%20(Linux;Android%2014)%20AndroidXMedia3/1.4.0&drmScheme=clearkey&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Hindi 4K Only
+https://starshare.online:443/live/Jen12345/Jen54321/705141.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Eng 4K Only
+https://starshare.online:443/live/Jen12345/Jen54321/705142.ts
+
