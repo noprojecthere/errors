@@ -7,7 +7,6 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Hotstar
 https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8?|cookie=hdntl=exp=1775641104~acl=/*~id=554e30be6f4e6fbf8571cc2e3ee0c46f~data=hdntl~hmac=dd7d3869a7d44a5e0670ad36d27476d702e92448ba05583a6cdf2102f7918443&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/15)
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 2 Tamil
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?|cookie=__hdnea__=st=1775559734~exp=1775581334~acl=/*~hmac=60f9c2d0af2297a4cfeed4abe2df3ce3bd5e63a3cd39909c5291b965ddc9f41c&drmScheme=clearkey&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
 
@@ -19,5 +18,3 @@ https://starshare.online:443/live/Jen12345/Jen54321/705141.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Eng 4K Only
 https://starshare.online:443/live/Jen12345/Jen54321/705142.ts
-
-
