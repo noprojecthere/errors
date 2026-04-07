@@ -1,13 +1,20 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
 https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Jiohotstar English 
-https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8?|cookie=hdntl=exp=1775544944~acl=%2f*~id=245b13d12956ec346131ed0e17cae7cb~data=hdntl~hmac=55f62a5fb3d833a2c6fa72b521e37b3e53622aef5c53e0d757049e1389e1eaa0&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/15)
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 1 Hindi 
-https://jiotvbpkstb.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1775486899~exp=1775508499~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=af534e2abca9151085c8c2d2cd058501bdcef4565059906ae07475da9c00bd5c&user-agent=JioTV.Plus/2.3.1_2041%20(Linux;Android%2014)%20AndroidXMedia3/1.4.0&drmScheme=clearkey&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?|cookie=__hdnea__=st=1775559734~exp=1775581334~acl=/*~hmac=60f9c2d0af2297a4cfeed4abe2df3ce3bd5e63a3cd39909c5291b965ddc9f41c&drmScheme=clearkey&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Hindi 4K Only
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Hotstar
+https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8?|cookie=hdntl=exp=1775641104~acl=/*~id=554e30be6f4e6fbf8571cc2e3ee0c46f~data=hdntl~hmac=dd7d3869a7d44a5e0670ad36d27476d702e92448ba05583a6cdf2102f7918443&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/15)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 2 Tamil
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?|cookie=__hdnea__=st=1775559734~exp=1775581334~acl=/*~hmac=60f9c2d0af2297a4cfeed4abe2df3ce3bd5e63a3cd39909c5291b965ddc9f41c&drmScheme=clearkey&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 2 Telugu
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?|cookie=__hdnea__=st=1775559734~exp=1775581334~acl=/*~hmac=60f9c2d0af2297a4cfeed4abe2df3ce3bd5e63a3cd39909c5291b965ddc9f41c&drmScheme=clearkey&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Hindi 4K Only
 https://starshare.online:443/live/Jen12345/Jen54321/705141.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Eng 4K Only
