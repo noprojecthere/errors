@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
+9#EXTINF:-1 tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
 https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 1 Hindi 
@@ -105,4 +105,3 @@ https://live14p.hotstar.com/hls/live/2123138/inallow-ipl-2026/pan/1540066397/15m
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTINF:-1 tvg-id="" group-title="JIOSTAR-4K NO-ADS" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6764/1776941436764-h",4K-NO-ADS Punjabi RCB vs GT
 https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=pan
-
