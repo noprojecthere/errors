@@ -1,6 +1,10 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
 https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-name="Star Sports 1 Hindi HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1760005839122_l_medium.jpg",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1779096601~exp=1779118201~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=94e7bfabb74f7b83c9c0e86c4a972d590b0787cb7381ead9312b447069cf1e20|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" group-title="Sports" tvg-language="English" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -13,12 +17,6 @@ https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/e1f3582cdf2a4b4fbc1b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20",  Willow Adsfree 
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axzzkdukfy/out/v1/3ae01320c1cb4853bd48e575e3699b3e/cenc.mpd?|drmScheme=clearkey&drmLicense=8989ef2e334dacc8b77de15f31152701:180dc5513532d500bac8813715a95b48
 
-
-#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-name="Star Sports 1 Hindi HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1760005839122_l_medium.jpg",Star Sports 1 Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1779096601~exp=1779118201~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=94e7bfabb74f7b83c9c0e86c4a972d590b0787cb7381ead9312b447069cf1e20|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-name="Star Sports 1 Tamil HD" group-title="Sports" tvg-language="Tamil" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1753202507581_l_medium.jpg",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
@@ -29,3 +27,74 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779096601~exp=1779118201~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=4fda75e4b0a840c56434c03ffddf5746e722f77dc
 
+#EXTINF:-1 tvg-id="1540066484" tvg-name="ENGLISH" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", ENGLISH 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-airtel.cdn.hotstar.com/cmaf/live/2024345/inallow-ipl-2026/eng/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a_stereo.m3u8?a=ns&hdnea=exp=1779114606~raf=1779113406~acl=/cmaf/live/2024345/inallow-ipl-2026/eng/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-rd=14400-ad=14400-ce=1779112806-~hmac=a16dfa2690679cc10d7abdb25e930a18c1335f1cc74e02ed084110b05d710171
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="HINDI" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", HINDI 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-airtel.cdn.hotstar.com/cmaf/live/2024713/inallow-ipl-2026/hin/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a_stereo.m3u8?a=ns&hdnea=exp=1779113409~acl=/cmaf/live/2024713/inallow-ipl-2026/hin/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-~hmac=70bfcaf425d7f985102e4e2d436c013848363f29685bb36685cdc25dc803c8d2
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="TELUGU" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", TELUGU 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-airtel.cdn.hotstar.com/cmaf/live/2024716/inallow-ipl-2026/tel/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&hdnea=exp=1779114611~raf=1779113411~acl=/cmaf/live/2024716/inallow-ipl-2026/tel/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-rd=14400-ad=14400-ce=1779112811-~hmac=10828196c564cdd446b2a9e3ff7c13c1f3d0164b09c21bf4b9f4fbf8c1a8cccd
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="TAMIL" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", TAMIL 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-airtel.cdn.hotstar.com/cmaf/live/2024712/inallow-ipl-2026/tam/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&hdnea=exp=1779114613~raf=1779113413~acl=/cmaf/live/2024712/inallow-ipl-2026/tam/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-rd=14400-ad=14400-ce=1779112813-~hmac=f25ba62f8634b7c73d8026bc558ea8266c865fdce80b7a656386795b81d88d91
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="KANNADA" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", KANNADA 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-airtel.cdn.hotstar.com/cmaf/live/2024718/inallow-ipl-2026/kan/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&hdnea=exp=1779114616~raf=1779113416~acl=/cmaf/live/2024718/inallow-ipl-2026/kan/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-rd=14400-ad=14400-ce=1779112816-~hmac=6f9a6744288cce94a67682128b0514e595a9244c399d60bfe5c05bf723d78b93
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="MALAYALAM" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", MALAYALAM 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://abm37vgaaaaaaaamh47oqrps5q5te.live-cf.cdn.hotstar.com/cmaf/live/2123100/inallow-ipl-2026/mal/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1779113418~acl=/cmaf/live/2123100/inallow-ipl-2026/mal/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-~hmac=8a83da87858c82a16c806abf4f9dc9a3075940c8c948e04c2d0cabfa3a576c9f&Expires=1779113418&Signature=OJT6XAbV5vcf1bfkuso9IUoOVbBR44YIKX7JGfFbgkLnGikEZ~YyYDAeG~2AZ9YLIiIcmWVW3RJlZr7TFGLYNGuBOJeIw7aP2pcnHnIXPKRJ4da7nLxChvKvkFsGltYRO1dU6jUnMwf8qFqIup9lFVMZuE3C5Amo2muDE5WLhYDt-X1SGo~~4cOMl4idx2S3G0nKoFMdmJL5izeSkfu-~RBIxx9oNNpu7dKk0Pkcy0ZMVC06J4KE2ABVsJEalb48OMbYcJiLq2xEMPlwVTxOEuIMq14-nYrqd3oPd4xwdgZEHixGICFl7Qa3P3JxNe1S69r6KtLDNpcopI1MLprSGw__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="BHOJPURI" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", BHOJPURI 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-airtel.cdn.hotstar.com/cmaf/live/2123033/inallow-ipl-2026/bih/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&hdnea=exp=1779114620~raf=1779113420~acl=/cmaf/live/2123033/inallow-ipl-2026/bih/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-rd=14400-ad=14400-ce=1779112820-~hmac=c54e4bc864099bff20e6f110393dec3faf7923743ef2598ef63f360fb41583bf
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="MARATHI" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", MARATHI 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-airtel.cdn.hotstar.com/cmaf/live/2123162/inallow-ipl-2026/mar/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&hdnea=exp=1779114622~raf=1779113422~acl=/cmaf/live/2123162/inallow-ipl-2026/mar/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-rd=14400-ad=14400-ce=1779112822-~hmac=2f4669b7eb4485c2e296d318f294a62eb682505185240fa95d69de5d16f9a4c0
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="BENGALI" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", BENGALI 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-airtel.cdn.hotstar.com/cmaf/live/2123037/inallow-ipl-2026/ben/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&hdnea=exp=1779114624~raf=1779113424~acl=/cmaf/live/2123037/inallow-ipl-2026/ben/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-rd=14400-ad=14400-ce=1779112824-~hmac=c451da79fdbe6b62c1b569a38e581342475d66ab5d375a8d25d2ff1b148c2965
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="PUNJABI" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", PUNJABI 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://abm37vgaaaaaaaamh47oqrps5q5te.live-cf.cdn.hotstar.com/cmaf/live/2123098/inallow-ipl-2026/pan/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1779113427~acl=/cmaf/live/2123098/inallow-ipl-2026/pan/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-~hmac=6f56b5ce030977d7bfbeffb471d90c9fd6e1fea99631420b85975492c8a7e285&Expires=1779113427&Signature=Ks-D4b1-VLQ0yICMlV0YuXBBZUKVzoDJftLO4MNNtO7O4VQ-g8QNYx5obeJHXPS93bN548A8el7BxKF26Uhws7R60OpqNlfUh5ZgqIxVYCeeFyRbS0DDWbPMDs8FmLuip5HKdkrsIwTINyQVwiCaVj8jxlaljAZ3nftVyA93psBevjcksPqDzNE2CIfxuMAS4bkVi9sytj2o9Xk7137PprtV9-ybfuhHMXmI3HIsl77VKq8hCzx~djSymKYcIYvcYuWiMDKEob1IkD~weOTSG2XSDJN8F1thJ9GBXRFN88cqm4N4dlrjByKw6ioMypGAzQb5DS5ydl-wCwQGEWfXEQ__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="GUJARATI" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", GUJARATI 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://abm37vgaaaaaaaamh47oqrps5q5te.live-cf.cdn.hotstar.com/cmaf/live/2123035/inallow-ipl-2026/guj/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1779113429~acl=/cmaf/live/2123035/inallow-ipl-2026/guj/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-~hmac=752f5d2f5ca10da5cc5bc1ff7d57dadc3a321ce867029526b125d197eab6e22f&Expires=1779113429&Signature=b-w59rDXRlmPe-zmRJ7BENBejujQnB2NlfcCIDaY74CRUds6a5G8EoK74RLKob06wB0jUQ4zBvkNva3fkj1oVXf72ymZkuCxfPKZq6Mye2~FIUEZ2dObRfB63Aq4qg3J5CM1Y32SYOyV~X6nQeI0Mesggs8rGsYr7mp3gV3X8B592XMF6-F-deb0ulMkrWiXH7sV3o6WaRWldEMklxemrGHhiE4Xpn5U4RATGphOTssgXo4ED02y6kK02tvO283BY~4TaBh8rcGH-6TEREciwiESAIKzJW2RBzYTu2ReuTczHkVFaGUJQQWMa0GgfVnQgbuuO7DqEa5ZPUIsPSXQwg__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
+
+#EXTINF:-1 tvg-id="1540066484" tvg-name="HARYANVI" tvg-logo="https://images.ottplay.com/images/4d63a2f25c9accfd82cdfe1fdc123757.jpg" group-title="IPL 2026", HARYANVI 4K
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://abm37vgaaaaaaaamh47oqrps5q5te.live-cf.cdn.hotstar.com/cmaf/live/2123160/inallow-ipl-2026/har/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1779113431~acl=/cmaf/live/2123160/inallow-ipl-2026/har/1540066484/15mindvrm018ea928464bda4f57bf9fcd16a1e9571918may2026/master_a~ttl=1800~type=paid~data=ip=lerhXL0EuwcqN11FGBTo65-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=25.01.27.1-ut=free-fpassv2-~hmac=e82c4e465c7fe0aabfecc46b6f914d1840e4d1fffb6d8c4f2bbce31b5bbf69e0&Expires=1779113431&Signature=EWfZqPLHkVEGj1obh1wpoa--oiSisYfAnr7k0uJaYAMjlC6zS5-P~7YqQROLd6cZznJ60ZJuR3JQW~9HRUQ-eYtUE4lP2dwk4bX37D64iKeMybzzi848FQCeAaz99SHEY7u5UwjscLGy9scuHgO3SLkBu~nJjaH7wPV4GxA0rRZheFI2OgFkGBdDezUubUvPHPUDo3rH8jTLdOMTNEj~f0LywHE20bsMW9WUJjBHbgQ~-svJusGg2z9qLSNPyQgIeiIBv7J5EcxEScYzaNs07iy-0J8Y~0g2mIiJ1qSLZCqj-HHP2-XNJHTpzlcFJrTD80b3fdVp9W0FkwNJVvpPiw__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
