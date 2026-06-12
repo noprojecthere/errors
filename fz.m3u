@@ -12,5 +12,40 @@ https://streamflexsmm.in/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781236127&tok
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 2 HD
 https://streamflexsmm.in/stream.php?id=Unite8-Sports2-HD&ts=1781236127&token=503804e6e87b5ece1e558283ee8fdaf1&Powered-by-StreamFlex=1d3ff8a94d736da63522a85dcaa034c3
 
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 2 HD Server 2
+https://restream-bay.vercel.app/chuchhi?id=66236
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", FIFA Bangla & Hindi SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd|drmScheme=clearkey&drmLicense=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-1-1x1-300x.png" group-title="English", Unifi TV 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
+https://uplink.lazyspace.online/unifi/manifest.php?channel=fifa1&kid=10e2114398744f3880cc96653568da55
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-3-1x1-300x.png" group-title="English", Unifi TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
+https://uplink.lazyspace.online/unifi/manifest.php?channel=fifa3&kid=f88c0e6ef2de4f92b7ce07e50cb2d937
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUaqC49i0JOK8BucsLMLD9qoHcxMOScgGzA&s" group-title="English", CIGNAL TV
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png"  group-title="English", TSN SPORTS 4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?Null|drmScheme=clearkey&drmLicense=e51aq6EwcEm8vCW7o9ZMJuzpPe2FjcmZVWf:a12a987fe725a40b6be95cd84b15f689
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnnir61JzWAi2Z9bLeMSJxMVafx8-2ABD4Ww&s"  group-title="English", FOX Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZaCQC3y3vyoMF_kkXLOiNcGrfA2XhKGlAA&s" group-title="Spanish", TELEMUNDO
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBFqXw3-lP2zVdBuyqf-d0gB5ELqP49SPSg&s"  group-title="German", Fussball TV 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8
