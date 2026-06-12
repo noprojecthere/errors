@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", FIFA Hindi
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4351jmf5Dqg3GC6vh3ag4JnKFtBkcYhTHo6:b0b2678bcd274c37b888a6c987d502ed
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=4351jmf5Dqg3GC6vh3ag4JnKFtBkcYhTHo6&key=b0b2678bcd274c37b888a6c987d502ed
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", FIFA Hindi
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 1 HD
@@ -28,29 +28,21 @@ https://uplink.lazyspace.online/unifi/manifest.php?channel=fifa1&kid=10e21143987
 https://uplink.lazyspace.online/unifi/manifest.php?channel=fifa3&kid=f88c0e6ef2de4f92b7ce07e50cb2d937
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUaqC49i0JOK8BucsLMLD9qoHcxMOScgGzA&s" group-title="English", CIGNAL TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png" group-title="English", TSN SPORTS 4
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png"  group-title="English", TSN SPORTS 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aq6EwcEm8vCW7o9ZMJuzpPe2FjcmZVWf:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?Null|drmScheme=clearkey&drmLicense=e51aq6EwcEm8vCW7o9ZMJuzpPe2FjcmZVWf:a12a987fe725a40b6be95cd84b15f689
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnnir61JzWAi2Z9bLeMSJxMVafx8-2ABD4Ww&s" group-title="English", FOX Sports 1
+#EXTINF:-1 tvg-id="9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnnir61JzWAi2Z9bLeMSJxMVafx8-2ABD4Ww&s"  group-title="English", FOX Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZaCQC3y3vyoMF_kkXLOiNcGrfA2XhKGlAA&s" group-title="Spanish", TELEMUNDO
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBFqXw3-lP2zVdBuyqf-d0gB5ELqP49SPSg&s" group-title="German", Fussball TV 1
+#EXTINF:-1 tvg-id="11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBFqXw3-lP2zVdBuyqf-d0gB5ELqP49SPSg&s"  group-title="German", Fussball TV 1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8
