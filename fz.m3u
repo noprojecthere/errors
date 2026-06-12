@@ -23,6 +23,16 @@ https://uplink.lazyspace.online/fifa/upstream/ts502/lazyyxd.mpd
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Referer":"https://watch.tataplay.com/","Origin":"https://watch.tataplay.com"}
 https://uplink.lazyspace.online/fifa/upstream/ts506/lazyyxd.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="Hindi",Zee5 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_type=hls
+https://falcon-rol-all.zee5.com/hls/live/2125512/CAN-vs-BIH-13-con_HIN/index-connected.m3u8?hdntl=exp=1781373779~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125512,CAN-vs-BIH-13-con,HIN,18cae3aa4fa55731605e7e10bf757ac7add4cdde16f6e4d22a6454e04f800a0e~hmac=18dbe2cfe1954be420146953a83a7d86dfa5ece438b3e77209a9fd090a25484f
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="Hindi",Zee5 Malayalam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_type=hls
+https://falcon-rol-all.zee5.com/hls/live/2125516/CAN-vs-BIH-13-con_MAL/index-connected.m3u8?hdntl=exp=1781374017~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125516,CAN-vs-BIH-13-con,MAL,2f31d4d5b2f10574d48d8553fff9942f3ec5e39787b33915513150aa476f977d~hmac=8f9088be2ae4340cee5bce935f381fba13403ca0eb34eada1f8285326d683966
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", FIFA Hindi SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
