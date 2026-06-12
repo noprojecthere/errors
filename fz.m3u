@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=43513b13f4b542e39c9265921dfc1726&key=b0b2678bcd274c37b888a6c987d502ed
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", Unite8 Sports 1 HD
 https://streamflexsmm.in/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781236127&token=503804e6e87b5ece1e558283ee8fdaf1&Powered-by-StreamFlex=1d3ff8a94d736da63522a85dcaa034c3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 2 HD
@@ -15,7 +15,7 @@ https://streamflexsmm.in/stream.php?id=Unite8-Sports2-HD&ts=1781236127&token=503
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 2 HD Server 2
 https://restream-bay.vercel.app/chuchhi?id=66236
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", FIFA Bangla & Hindi SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", FIFA Bangla & Hindi SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd|drmScheme=clearkey&drmLicense=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-1-1x1-300x.png" group-title="English", Unifi TV 1
@@ -23,6 +23,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
 https://uplink.lazyspace.online/unifi/manifest.php?channel=fifa1&kid=10e2114398744f3880cc96653568da55
+
+#EXTINF:-1 tvg-id="fifa6" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.jpg?width=530" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="AddOn | FIFA 2026", Unifi TV 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
+https://uplink.lazyspace.online/unifi/manifest.php?channel=fifa2&kid=60a3773de4054a9680d6ca2277870a97
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-3-1x1-300x.png" group-title="English", Unifi TV 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -32,10 +38,6 @@ https://uplink.lazyspace.online/unifi/manifest.php?channel=fifa3&kid=f88c0e6ef2d
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUaqC49i0JOK8BucsLMLD9qoHcxMOScgGzA&s" group-title="English", CIGNAL TV
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png"  group-title="English", TSN SPORTS 4
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?Null|drmScheme=clearkey&drmLicense=e51aq6EwcEm8vCW7o9ZMJuzpPe2FjcmZVWf:a12a987fe725a40b6be95cd84b15f689
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnnir61JzWAi2Z9bLeMSJxMVafx8-2ABD4Ww&s"  group-title="English", FOX Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
