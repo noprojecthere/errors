@@ -61,11 +61,8 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBFqXw3-lP2zVdBuyqf-d0gB5ELqP49SPSg&s"  group-title="Portu", Caze TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-g_oqw3KHWjc9FwjFatYJ0xau4q2bOJ3ZHjY9_3fOiA7dnflIHQQRZU64&s=10"  group-title="Portu", Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBFqXw3-lP2zVdBuyqf-d0gB5ELqP49SPSg&s"  group-title="German", Spor TV BR
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBFqXw3-lP2zVdBuyqf-d0gB5ELqP49SPSg&s"  group-title="German", France TV 
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/04/03121900/France-TV-logo-2023.jpg"  group-title="Frensh", France TV 
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?|drmScheme=clearkey&drmLicense=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
