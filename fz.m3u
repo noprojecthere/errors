@@ -9,14 +9,14 @@ https://streamflexsmm.in/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781236127&tok
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 2 HD
 https://streamflexsmm.in/stream.php?id=Unite8-Sports2-HD&ts=1781236127&token=503804e6e87b5ece1e558283ee8fdaf1&Powered-by-StreamFlex=1d3ff8a94d736da63522a85dcaa034c3
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-title="Hindi", Unite8 Sports 1 Hindi HD - MultiQuality
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", Unite8 Sports 1 Hindi HD - MultiQuality
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://uplink.lazyspace.online/fifa/license/ts502/keys.json
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Referer":"https://watch.tataplay.com/","Origin":"https://watch.tataplay.com"}
 https://uplink.lazyspace.online/fifa/upstream/ts502/lazyyxd.mpd
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite2hd_wdpxkw.png"  group-title="English", Unite8 Sports 2 HD - MultiQuality
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png"  group-title="English", Unite8 Sports 2 HD - MultiQuality
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://uplink.lazyspace.online/fifa/license/ts506/keys.json
