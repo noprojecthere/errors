@@ -1,26 +1,157 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
-https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20",  Willow Adsfree 
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wxpivt6h8l/out/v1/720d60ec6a3b4b1ab2631bbd4712d350/cenc.mpd?|drmScheme=clearkey&drmLicense=4c0ee5909de5872620bf9f1d2d2ef7f5:1f7ebf7dbeb6cde6e216175f90e5f161
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 1 Hindi
-https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Kayo Hindi 
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/8385ebd5ee5f436abdb3696037819414/index.mpd?|drmScheme=clearkey&drmLicense=8bf05c8617fb5d258b65b7f0df80a608:89e1b8c1e39a48c6c1616360ffbfb612
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports 1
-https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", IPL TV
-https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/e03bbf7688f4b14faa3782e78851c3d9.m3u8?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports Tamil
-https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", Star Sports Telugu
-https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoGxtVThwEmRijYozSEappF0H2PH5sVBUiw&s" group-title="IPL T20", FOX HD
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd?|drmScheme=clearkey&drmLicense=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
+[
+    {
+        "type": "hls",
+        "id": "509",
+        "name": "IPL TV",
+        "group": "IPL",
+        "logo": "https://documents.iplt20.com//ipl/assets/images/ipl-logo-new-old.png",
+        "user_agent": "Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)",
+        "m3u8_url": "https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8",
+        "headers": {
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104",
+            "Origin": "https://www.hotstar.com",
+            "Referer": "https://www.hotstar.com/"
+        }
+    },
+    {
+        "type": "hls",
+        "id": "1033",
+        "name": "Star Sports 2 Hindi HD",
+        "group": "Sports",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+        "m3u8_url": "https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8",
+        "headers": {
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104",
+            "Origin": "https://www.hotstar.com",
+            "Referer": "https://www.hotstar.com/"
+        }
+    },
+    {
+        "type": "hls",
+        "id": "980",
+        "name": "Star Sports 2 Hindi",
+        "group": "Sports",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+        "m3u8_url": "https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8",
+        "headers": {
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104",
+            "Origin": "https://www.hotstar.com",
+            "Referer": "https://www.hotstar.com/"
+        }
+    },
+    {
+        "type": "hls",
+        "id": "1186",
+        "name": "Star Sports 2 Telugu",
+        "group": "Sports",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+        "m3u8_url": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8",
+        "headers": {
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104",
+            "Origin": "https://www.hotstar.com",
+            "Referer": "https://www.hotstar.com/"
+        }
+    },
+    {
+        "type": "hls",
+        "id": "1187",
+        "name": "Star Sports 2 Tamil",
+        "group": "Sports",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+        "m3u8_url": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8",
+        "headers": {
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104",
+            "Origin": "https://www.hotstar.com",
+            "Referer": "https://www.hotstar.com/"
+        }
+    },
+    {
+        "type": "dash",
+        "id": "92916",
+        "name": "Star Sports Select 2 HD",
+        "group": "Sports",
+        "language": "Hindi",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h",
+        "user_agent": "Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)",
+        "headers": {
+            "Referer": "https://www.hotstar.com/",
+            "Origin": "https://www.hotstar.com",
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104"
+        },
+        "license_url": "https://sony-token.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d",
+        "expires_in": 60585,
+        "mpd_url": "https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd"
+    },
+    {
+        "type": "dash",
+        "id": "13315",
+        "name": "Star Sports 1 Hindi HD",
+        "group": "Sports",
+        "language": "Hindi",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h",
+        "user_agent": "Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)",
+        "headers": {
+            "Referer": "https://www.hotstar.com/",
+            "Origin": "https://www.hotstar.com",
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104"
+        },
+        "license_url": "https://sony-token.vercel.app/api/results.php?keyid=81872faa1d6b45fa9045cdeb2e310000&key=9b88168e61274587a471962c46b94675",
+        "expires_in": 60584,
+        "mpd_url": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd"
+    },
+    {
+        "type": "dash",
+        "id": "30247",
+        "name": "Star Sports 2 HD",
+        "group": "Sports",
+        "language": "Hindi",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h",
+        "user_agent": "Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)",
+        "headers": {
+            "Referer": "https://www.hotstar.com/",
+            "Origin": "https://www.hotstar.com",
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104"
+        },
+        "license_url": "https://sony-token.vercel.app/api/results.php?keyid=9dacc80134404c34ba184022c28d0000&key=982183fb4d9449c995859b7cff512092",
+        "expires_in": 60584,
+        "mpd_url": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd"
+    },
+    {
+        "type": "dash",
+        "id": "37864",
+        "name": "Star Sports Select 1 HD",
+        "group": "Sports",
+        "language": "Hindi",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h",
+        "user_agent": "Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)",
+        "headers": {
+            "Referer": "https://www.hotstar.com/",
+            "Origin": "https://www.hotstar.com",
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104"
+        },
+        "license_url": "https://sony-token.vercel.app/api/results.php?keyid=1f64a24b3950468497390155c4880000&key=68f788aced6c4ecb89108f22fe9ee087",
+        "expires_in": 60584,
+        "mpd_url": "https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd"
+    },
+    {
+        "type": "dash",
+        "id": "88327",
+        "name": "Star Sports 1 HD",
+        "group": "Sports",
+        "language": "Hindi",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h",
+        "user_agent": "Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)",
+        "headers": {
+            "Referer": "https://www.hotstar.com/",
+            "Origin": "https://www.hotstar.com",
+            "Cookie": "hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104"
+        },
+        "license_url": "https://sony-token.vercel.app/api/results.php?keyid=b7cdde012ce04e90a08b90622e020000&key=13603245acab444faef6cab5198de55f",
+        "expires_in": 60584,
+        "mpd_url": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd"
+    }
+]
