@@ -10,10 +10,10 @@ https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=178152449
 https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", ZEE Hindi SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/index.m3u8.m3u8?sessionid=yupptvott_5_496800_0ec648f6-ec2d-e22c-d4db-fbf43344897f_IN_152.58.183.45_dishtv_1_channel_73_-1&token=st=1781417220~exp=1781503620~hmac=7f69b4ba76cfb5bc75e7cd41daa2ee4c1f42c014342a5b43c6faad28b31e979c
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/master-Denver1769.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", ZEE Bangla SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/index.m3u8?sessionid=yupptvott_5_496800_0ec648f6-ec2d-e22c-d4db-fbf43344897f_IN_152.58.183.45_dishtv_1_channel_94_-1&token=st=1781417306~exp=1781503706~hmac=21caffce37046b96cc7870bf5d5e6682a1757406a6c5c7cd115b32c7ba7518af
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master-Denver1769.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png"  group-title="Malayalam", ZEE Malayalam SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
