@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="sf-top" tvg-name="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
 https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", Unite8 Sports 1 Hindi HD
+https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 2 HD
+https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", ZEE Hindi SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/index.m3u8.m3u8?sessionid=yupptvott_5_496800_0ec648f6-ec2d-e22c-d4db-fbf43344897f_IN_152.58.183.45_dishtv_1_channel_73_-1&token=st=1781417220~exp=1781503620~hmac=7f69b4ba76cfb5bc75e7cd41daa2ee4c1f42c014342a5b43c6faad28b31e979c
 
