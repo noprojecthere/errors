@@ -10,18 +10,11 @@ https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=178152449
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="English", Unite8 Sports 2 HD
 https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png"  group-title="Malayalam", ZEE Hindi SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Hindi", Zee5 Hindi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/master2.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png"  group-title="Malayalam", ZEE Malayalam SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://uplink.lazyspace.online/mytv/tplay/license.php?id=ts684
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_type=live
-https://uplink.lazyspace.online/mytv/tplay/stream.php?id=ts684
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj"  group-title="English", FOX
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jyocixinuk/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd?|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUaqC49i0JOK8BucsLMLD9qoHcxMOScgGzA&s" group-title="English", CIGNAL TV
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
