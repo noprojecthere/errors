@@ -58,8 +58,8 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", TSN SPORTS
-https://soccerball.st/s1.php
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", TSN SPORTS 4K
+https://streamxyz.shop/tsn4k/index.m3u8?|Referer=https://xyzstreams.shop/
 
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", FAST SERVER
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
