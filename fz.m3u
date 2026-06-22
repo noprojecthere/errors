@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="sf-top" tvg-name="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
@@ -10,82 +9,153 @@ https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=178152449
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", RTB GOLIVE  
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", TSN SPORTS  
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", FOX SPORTS 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozila
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", CazéTV BR 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TSN SPORTS 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", FOX SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b984175de3216c35d8daf678c61c0b9a:f7ca11d77347793f637dd5a0dc7323ad
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cvj2owit1p/out/v1/16c00e7627d74133991d74679d7c982f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", FOX 4K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9crxia693u/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", RTE SPORTS
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", RTE SPORTS 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", TIPIK FRENCH  
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", FOX ENGLISH 
+https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/6bbb3f01ec11e5b10e4369978f011941/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TELEMUNDO 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
+https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", D SPORTS ES 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", FOX SPORTS 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hsshvitvwa/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", CTV SPORTS 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TIPIK FRENCH 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", M6 FRANCE  
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", M6 FRANCE 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", beIN ARABIC  
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", ARABIC LIVE 
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", VIX SPANISH 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", BBC SPORTS HD
+https://chatgpt.hereisman.net/playlist/52271/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TSN SPORTS HD
+https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", FOX SPORTS HD
+https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", IRIB 4K
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", ELTA SPORTS 
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", CT SPORTS 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TELEMUNDO HD
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", beIN ARABIC 
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", SOMOY TV HD
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", TVP POLISH  
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TVP POLISH HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", FAST SERVER
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", HD SERVER ENG
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", CazéTV BR
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", HD SERVER AR
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TRT SPORTS 2K
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TVE La1 SPANISH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
+https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", D SPORTS
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TSN ENGLISH
+https://soccerball.st/s1.php
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", SporTV BR 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0
+https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", VRT DUTCH
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", TYC SPORTS HD
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Live Events", DAZN SPANISH HD
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
