@@ -58,6 +58,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", SporTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", TIPIK FRENCH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -65,8 +72,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", DAZN SPANISH
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", FUSSBALL TV UHD
+https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", TELEMUNDO HD
 https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click
@@ -75,7 +82,7 @@ https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
 
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", FAST SERVER 2
-https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/
+https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcmMUUNZUj8.m3u8?txSecret=85832a7e2d17e27b3caa5ad21ba0bdc4&txTime=6A42C650
 
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", HD SERVER 1
 https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
