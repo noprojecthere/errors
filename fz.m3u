@@ -20,8 +20,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b788
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+https://rcg-bks400-06.starhubgo.com/bpk-token/1ab@04m31aa2tvpdquttxoskez0xbawhl5ga0kkeiwda/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", ITV SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
