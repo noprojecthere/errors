@@ -3,13 +3,16 @@
 #EXTINF:-1 tvg-id="sf-top" tvg-name="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
 https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="FIFA 2026", Unite8 Sports Hindi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Semi-finals", Unite8 Sports Hindi
 http://opplex.org:8080/live/asif376/232122/444332.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="FIFA 2026", Unite8 Sports English
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Semi-finals", Unite8 Sports HD
+https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/y835-iiaw/chunklist_i1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhzS238k/unite8.png" group-title="Semi-finals", Unite8 Sports English
 http://opplex.org:8080/live/asif376/232122/444333.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="FIFA 2026", WC ENGLISH
+#EXTINF:-1 tvg-logo="https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp" group-title="Semi-finals", WC ENGLISH
 ##KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
