@@ -3,124 +3,28 @@
 #EXTINF:-1 tvg-id="sf-top" tvg-name="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
 https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Unite8 Sports
+https://ranapkz.site/JOIN@RANAPK33/play.m3u8?id=373312
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", BBC SPORTS HD
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Bien English HD
+https://ranapkz.site/JOIN@RANAPK33/XT/X/play.m3u8?id=135352
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", RTE 2 HD
+https://ranapkz.site/JOIN@RANAPK33/XT/X/play.m3u8?id=135355
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TSN1 HD
 https://chatgpt.hereisman.net/playlist/53498/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TSN SPORTS HD
 https://chatgpt.hereisman.net/playlist/53497/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TSN SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", beiN ARABIC - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://netfly-asia217.autiv.in/maxx1/index.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", ISCREEN BD - AQ
-https://hjkpoi-mnbvcxza.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f76d3e5e41ea557843549782f9a/main.m3u8?|referer=https://iscreen.com.bd/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", WC ENGLISH - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
-https://cdnec02.mediaquest.com.ph/bpk-token/2ab@w544wk5y111knxfbv2itg33nvw2xxxv0wx4e31ca/bpk-tv/fifa_ppv1/default/index.mpd?bkm-query
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FAST SERVER 2
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FAST SERVER
 https://live.vivo200.com/live/sd-1-4459814.m3u8?txSecret=53688b933ac4ba54c6603e617023e2ee&txTime=6A5BF668|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", beIN MAX HD
-https://wez.khaialogy.store/dream1.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TELEMUNDO HD
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", D SPORTS ES - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX SPORTS 4K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", VIX MUNDAL HD
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", CazéTV BR - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TVE La 1 - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TSN4 SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX SPORTS HD
 https://chatgpt.hereisman.net/playlist/53499/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", IRIB SPORTS 4K
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FAST SERVER 1
-https://pulltx.cqsycw.com/live/hd-en-6MvYMRTGwLKvBTez2a.m3u8?txSecret=c1540393321d5640a37e3e15c10858e8&txTime=6A5C0B10
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX ENGLISH HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", HD SERVER ENG
-https://instreams.pro/live/NFLHD1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp3-us.php?stream=NFLHD1&Origin=https://instream.click/jwp3-us.php?stream=NFLHD1
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", HD SERVER FR
-https://instreams.pro/live/NFLHD3/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=NFLHD3&Origin=https://instream.click/jwp-us.php?stream=NFLHD3
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", HD SERVER ES
-https://instreams.pro/live/NFLHD2/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=NFLHD2&Origin=https://instream.click/jwp-us.php?stream=NFLHD2
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", BBC SPORTS SD
-http://193.47.62.43/hls/XIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TV4 SPORTS SD
-http://193.47.62.43/hls/XIIIIFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", CCTV SPORTS HD
 https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", beiN SPORTS FR
-http://193.47.62.51/hls/XIIIIF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
