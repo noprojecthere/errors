@@ -6,6 +6,9 @@ https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Unite8 Sports
 https://ranapkz.site/JOIN@RANAPK33/play.m3u8?id=373312
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX HDR+4K
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX UHD
 https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8
 
@@ -24,6 +27,9 @@ https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TSN 1 - AQ
 https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011%3A17d2ac8dbc5429bd70af3433aa12158d
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX - AQ
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", SporTV- AQ
 https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce%3A8823f713ba6fdb9bbe0a2ad82d309a4b
 
@@ -33,3 +39,5 @@ https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", CazéTV BR HD
 https://rdcstream.life/live/cazetv/index.m3u8?|referer=https://playerembed.xyz/
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", test
+https://falcon-en-conn.zee5.com/hls/live/2125522/ESP-vs-ARG-20-con_ENG/index-connected.m3u8?hdnts=st=1784483438~exp=1784497538~acl=/hls/live/2125522/ESP-vs-ARG-20-con_ENG/index-connected.m3u8*~id=0-1-6z5974924_4F5A716C-63E8-4CF4-B6A4-28DF87F42840~hmac=f3c5a34579a55b5900082a435baa4f4d341bc0a48431a15605eb170ff0ec98c6&req_id=126ae2dc-e366-4854-8381-8d46aff8100b
