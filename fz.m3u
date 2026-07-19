@@ -3,14 +3,23 @@
 #EXTINF:-1 tvg-id="sf-top" tvg-name="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
 https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Unite8 Sports
+https://ranapkz.site/JOIN@RANAPK33/play.m3u8?id=373312
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX 4K
+https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Bein English
+https://ranapkz.site/JOIN@RANAPK33/XT/X/play.m3u8?id=135352
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX SPORTS HD
+https://chatgpt.hereisman.net/playlist/53539/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", ITV SPORTS HD
 https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TSN SPORTS HD
 https://chatgpt.hereisman.net/playlist/53540/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX SPORTS HD
-https://chatgpt.hereisman.net/playlist/53539/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FAST SERVER 1
 https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8
