@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-id="sf-top" tvg-name="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="Join Telegram: @streamstartv" , Install NetX Player
 https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Unite8 Sports
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Unite8 Sports Hindi Server1
 https://ranapkz.site/JOIN@RANAPK33/play.m3u8?id=373312
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Unite8 Sports Hindi Server2
+https://vsd136.okcdn.ru/cmaf/18074245728775/sig/AsWk7_Urh5E/expires/1784578244960/srcIp/223.188.135.43/urls/185.180.203.52/clientType/36/srcAg/CHROME_ANDROID/mid/15623108839175/get/dash_15623108839175.bY9N0NEktdA.mpd
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX UHD
 https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8
