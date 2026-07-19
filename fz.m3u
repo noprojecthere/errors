@@ -6,30 +6,29 @@ https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Unite8 Sports
 https://ranapkz.site/JOIN@RANAPK33/play.m3u8?id=373312
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX 4K
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX UHD
 https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Bein English
-https://ranapkz.site/JOIN@RANAPK33/XT/X/play.m3u8?id=135352
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX FHD
+https://cf.edge.foxdtc.digitalvideoplatform.com/ZXhwPTE3ODQ1NzQwMjY7YWNsPS8qO3dzaWQ9OTc1ZDkyNmFiMTkxZWIwNzFmYzRiOWZjYjIzODVjOWVfZm94ZHRjX3dlYl9lbi1VUztobWFjPTJMMGY5TlhkKzJjY05rSEFqSGs4Q28wR1FlcHlTWFZlK2ZsWmt6dlZGRWM9/live/tx001-ue2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FOX SPORTS HD
 https://chatgpt.hereisman.net/playlist/53539/load-playlist?|Referer=https://gooz.aapmains.net
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", Bein English
+https://ranapkz.site/JOIN@RANAPK33/XT/X/play.m3u8?id=135352
+
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", ITV SPORTS HD
 https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TSN SPORTS HD
-https://chatgpt.hereisman.net/playlist/53540/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", TSN 1 - AQ
+https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011%3A17d2ac8dbc5429bd70af3433aa12158d
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", FAST SERVER 1
-https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", SporTV- AQ
+https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce%3A8823f713ba6fdb9bbe0a2ad82d309a4b
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", KAN 11 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23fad97468a1338f973d192646df2d19:27fd56ffd7d70ec6aa9252e713c21190
-https://n-121-7.il.cdn-redge.media/livedash/oil/freetv/live/kan11/live.livx?manifest.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", D SPORTS- AQ
+https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1%3Ab3bc5ef00602b29abac7e482d3d9fbf3
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Live Events", CazéTV BR HD
 https://rdcstream.life/live/cazetv/index.m3u8?|referer=https://playerembed.xyz/
